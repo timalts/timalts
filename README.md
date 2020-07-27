@@ -2,7 +2,7 @@
   <br>
   <br>
   <br>
-  <samp>Hello there. I'm <a href="">Timothé</a>.<br> I'm a IT Student from France.<br><br>#javascript, #python, #css, #html, #php</samp>
+  <samp>Hello there. I'm <a href="">Timothé</a>.<br> I'm a IT Student from France.<br><br>Luck is also a talent.</samp>
   <br>
   <br>
   <br>
